@@ -23,7 +23,6 @@ During my time with Makers, I collaborated on several projects using various lan
 
 | Project     | Description  | Tech  |
 |:------------|:-------------|:-------|
-| KickAbout   | A web application targetted at the non-traditional football audience. It is designed to set up and join football matches near to your location using the Google Maps API | Ruby on Rails, RSpec, Capybara, PostgreSQL, HTML, SASS |
-| IOBook | Inspired by Facebook, a social network platform hosted on [Heroku](https://iobook.herokuapp.com/) | Ruby on Rails, RSpec, Capybara, HTML, CSS, Heroku |
-
-
+| [KickAbout](https://github.com/lildann/kickabout)   | A web application targetted at the non-traditional football audience. It is designed to set up and join football matches near to your location using the Google Maps API | Ruby on Rails, RSpec, Capybara, PostgreSQL, HTML, SASS |
+| [IOBook](https://github.com/tomal02/iobook) | Inspired by Facebook, a social network platform hosted on [Heroku](https://iobook.herokuapp.com/) | Ruby on Rails, RSpec, Capybara, HTML, CSS, Heroku |
+| [Notes App](https://github.com/Maby0/notesApp) | A single page web application that stores notes | HTML, CSS, Pure Javascript |
