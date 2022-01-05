@@ -53,3 +53,9 @@ Delivering elections can be troublemsome and I would often encounter unexpected 
 At Makers I would frequenlty apporach problems systematically. If I encountered an issue I would time box my learning, see what the best approach would be an attempt that. On occassions I would step away from the screen for 5 minutes and this would also help solve the problem. I found a good balance that works for me. 
 
 ## Education 
+* July 2021 -November 2021 - Computer Programming - <b>Makers Academy</b> 
+* September 2015 - May 2018 - BA Hons First Class Marketing Degree - <b>Southampton Solent University</b>
+* November 2017 - Prince2 Foundation Certificate in Project Management
+* August 2014 - A Levels: Media Studies (B), Graphics (C), Economics (E)
+* August 2012 - GCSE's: 10 A*-C 
+* 
