@@ -58,4 +58,36 @@ At Makers I would frequenlty apporach problems systematically. If I encountered 
 * November 2017 - Prince2 Foundation Certificate in Project Management
 * August 2014 - A Levels: Media Studies (B), Graphics (C), Economics (E)
 * August 2012 - GCSE's: 10 A*-C 
-* 
+
+## Experience
+Tunbridge Wells Borough Council - <b>Elections Officer</b> (October 2018 - May 2021) 
+
+* Planning - Maximise registration and to <b>plan</b> and develop engagement strategies to promote initiatives to improve democratic involvement.
+* Team-player - Demonstrate abilities of <b>working in a team</b> by supporting the wider team including Democratic Services and the Civic Office.
+* Project Planning - Create a <b>project management plan</b> for elections, and to help with recording and collating statistics that contribute towards the Electoral Commission statistical returns, ensures the process is open and transparent.
+* Leadership - Supervise junior and temporary members of the election staff.
+* Time Management - run the annual canvass and esnure that the register us updated, published and distributed by statuory deadlines.
+* Problem Solving - Conduct regular reviews of polling stations, if there have been reported issues, implement new systems e.g. employ new staff, split the station or in some cases hire a better venue. 
+* Communication - Regular contact with internal departments, for instance marketing and communications to post updates via Twitter, Facebook etc. 
+
+Bamboo Loans - <b>Customer Service Representative</b> - September 2016 - April 2018
+
+* People Person - Regular contact with clients and customers, ensuring their 'journey' is as smooth as possible whilst building <b>good relationships</b>.
+* Time Management - Keeping a healthy balance of working and reaching my KPI's whilst also achieving a First Class Honours degree at University.
+* Customer Service - Part of the role was speaking on the phone for large portions of the day. I am well adverse in speaking to the general public or employees in a <b>polite and friendly</b> manner. 
+
+Assembly Hall Theatre - Front of House - July 2012 - July 2017
+
+* Leadership - Promoted to team leader, my role would now include delegated and overseeing the bar.
+* Customer Service - Face to face interaction with the general public, ensuring their overall experience of the theatre was pleasant
+
+## Hobbies
+
+* Football - I reguarly play football in a small 6-aside team. As a huge fan of Chelsea FC, I reguarly attend their home games.
+* Running - I have always enjoyed running, especially as someone who has always played sports and was part of the cross-country teams.
+* Darts - a more recent hobby I have picked up, I love playing darts with friends and really immersed myself with the PDC World Championship this year
+* Reading - arguably I should read more as I enjoy it so much, my NY resolution this year is to read at least 10 pages a day!
+* Cooking - as a child, rather than watching cartoons on television, I would be found watching TV chefs such as Rick Stein, Gary Rhodes, Delia Smith, Ina Garten and many more. My aspiration was always to become a chef, obviously I was never good enough to become one! 
+
+
+
